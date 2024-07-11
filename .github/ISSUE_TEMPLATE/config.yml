@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Únete a nosotros en Discord para cualquier pregunta o solicitud
+    url: https://discord.gg/spreen
+    about: Por favor, no abras un issue a menos que sea para reportar errores
